@@ -1,0 +1,38 @@
+.h1{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 18px grey;
+}
+
+.div1{
+    float: none;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.div2{
+    font-size: 25px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color: white;
+    background-color: grey;
+    width: 100%;
+    line-height: 3;
+    font-size: 15px;
+    text-align: center;
+}
+.p{
+    border-radius: 0px;
+    font-size: 20px;
+    box-shadow:  5px 5px 5px grey;
+}
+canvas{
+    box-shadow:  5px 5px 5px grey; 
+    border-radius: 0px;
+    border:10px dashed black;
+    margin-top: 100px;
+}
